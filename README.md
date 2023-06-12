@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @WreckingBANG
-- 👀 I’m interested in Coding, Android Development (and Gaming)
+- 👀 I’m interested in Privacy, Coding, Android Development (and Gaming)
 - 🌱 I’m currently learning Computer Science Expert Subject Area: System Integration
-- 📫 How to reach me: wreckingbang@yahoo.com
+- 📫 How to reach me: Please dont.
