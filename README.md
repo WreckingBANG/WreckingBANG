@@ -2,7 +2,10 @@
 <h3 align="center">Some Guy learning Android Development in his Free Time</h3>
 
 - 🌱 I’m currently learning **Jetpack Compose and Kotlin**
+- 💼 Computer Science Expert Subject Area: System Integration
 - ❤️ GrapheneOS and Linux User
+- ❌ I try to not use Closed Source Software
+- 🔒 Privacy Advocate
 - ⚡ Fun fact **I hate Humans and i am Paranoid**
 
 <h3 align="left">Languages and Tools:</h3>
