@@ -2,10 +2,8 @@
 <h3 align="center">Some Guy learning Android Development in his Free Time</h3>
 
 - 🌱 I’m currently learning **Jetpack Compose and Kotlin**
-
-- 📫 How to reach me **Please Dont**
-
-- ⚡ Fun fact **I hate Humans, no joke**
+- ❤️ GrapheneOS and Linux User
+- ⚡ Fun fact **I hate Humans**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
