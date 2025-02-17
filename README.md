@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm WreckingBANG</h1>
-<h3 align="center">Guy learning Android Development in his Free Time</h3>
 
 - 🌱 I’m currently not doing anything interesting.
 - 💼 Computer Science Expert Subject Area: System Integration
