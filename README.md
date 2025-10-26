@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm WreckingBANG</h1>
 
-- 🌱 I’m currently not doing anything interesting.
+- 🌱 I’m currently working on a TubeArchivist Client written in Flutter
 - 💼 Computer Science Expert Subject Area: System Integration
-- ❤️ GrapheneOS and Linux User
-- ❌ I try to not use Closed Source Software
+- ❤️ GrapheneOS and NixOS User
+- ❌ I try to not use any Closed Source Software
 - 🔒 Privacy Advocate
 - ⚡ Fun fact **Paranoid about Security and Privacy**
 
